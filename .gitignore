@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+.venv/
+.env
+*.p8
+*.pub
+etf_dbt/target/
+etf_dbt/dbt_packages/
+etf_dbt/logs/
