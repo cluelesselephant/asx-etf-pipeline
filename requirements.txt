@@ -1,0 +1,9 @@
+yfinance
+pandas
+snowflake-connector-python[pandas]
+paramiko
+python-dotenv
+cryptography
+dbt-snowflake
+pytest
+ruff
